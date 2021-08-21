@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 **Estatísticas**:
-[![HHeloisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHeloisa&count_private=true&show_icons=true&theme=dark)](https://github.com/HHeloisa/github-readme-stats)
+
+[![HHeloisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHeloisa&count_private=true&show_icons=true&theme=prussian&hide=stars)](https://github.com/HHeloisa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHeloisa&layout=compact&theme=dark)](https://github.com/HHeloisa/github-readme-stats)
  
