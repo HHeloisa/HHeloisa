@@ -15,18 +15,32 @@ Front-End: HTML, CSS, JavaScript, React, Redux.
 
 Ciências Sociais, Supervisora de pesquisa UX.
 
-### Linguagens e ferramentas
+ ## Linguagens e ferramentas
 
 <p>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img width="30px" src="https://img.icons8.com/color/72/javascript.png" alt="Javascript icon"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img width="30px" " src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5 icon"></a></code><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3 icon" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React icon" style="max-width:100%;"></a></code><code><a target="_blank" rel="noopener noreferrer"
-</code><code><a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/officexs/72/sql.png"><img width="30px" src="https://img.icons8.com/officexs/72/sql.png" alt="SQL icon" style="max-width:100%;">
-<code><a target="_blank" rel="noopener noreferrer" href="https://trello.com/"><img height="32" src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello icon" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/"><img width="36" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" alt="Figma icon"></a></code>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img width="30px" src="https://img.icons8.com/color/72/javascript.png" alt="Javascript icon"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img width="30px" " src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5 icon"></a></code><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3 icon" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React icon" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/officexs/72/sql.png"><img width="30px" src="https://img.icons8.com/officexs/72/sql.png" alt="SQL icon" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://trello.com/"><img height="32" src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello icon" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/"><img width="36" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" alt="Figma icon"></a>
 </p>
 
-
+# Indíce dos repositórios:
+ 
+ ### Back-End:
+1. MySQL:
+- <a href="https://github.com/HHeloisa/mySQL_AllForOne">All for one;<a>
+- <a href="https://github.com/HHeloisa/Vocabulary_Booster" target="_blank">Vocabulary Booster;<a>
+- <a href="https://github.com/HHeloisa/One_For_All" target="_blank">One For All.<a>
+ 
+2. MongoDB:
+-  <a href="https://github.com/HHeloisa/Data_Flights" target="_blank">Data Flights;<a>,
+- <a href="https://github.com/HHeloisa/mongoDB_Ecommerce" target="_blank">MongoDB Ecommerce;<a>,
+- <a href="https://github.com/HHeloisa/Aggregations" target="_blank">Aggregations.<a>
+ 
 ### Estatísticas
 
 [![HHeloisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHeloisa&count_private=true&show_icons=true&theme=prussian&hide=stars)](https://github.com/HHeloisa/github-readme-stats)
