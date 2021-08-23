@@ -37,7 +37,7 @@ Ciências Sociais, Supervisora de pesquisa UX.
 - <a href="https://github.com/HHeloisa/One_For_All" target="_blank">One For All.<a>
  
 2. MongoDB:
--  <a href="https://github.com/HHeloisa/Data_Flights" target="_blank">Data Flights;<a>,
+- <a href="https://github.com/HHeloisa/Data_Flights" target="_blank">Data Flights;<a>,
 - <a href="https://github.com/HHeloisa/mongoDB_Ecommerce" target="_blank">MongoDB Ecommerce;<a>,
 - <a href="https://github.com/HHeloisa/Aggregations" target="_blank">Aggregations.<a>
  
