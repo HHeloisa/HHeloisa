@@ -16,8 +16,9 @@ Front-End: HTML, CSS, JavaScript, React, Redux.
 
 Ciências Sociais, Supervisora de pesquisa UX.
 
+---
 
- ---
+Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
 
  ## Linguagens e ferramentas
 
