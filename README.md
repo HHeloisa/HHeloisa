@@ -1,7 +1,8 @@
 ### Olá 👋
 
 Heloísa Junges Hackenhaar
-Desenvoledora Web – Full Stack
+
+Desenvoledora Web – Full Stack,
 Em formação na Trybe.
 
 :deciduous_tree: :cloud: :frog: :rainbow:
