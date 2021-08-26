@@ -43,24 +43,32 @@ Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
 ## Projetos desenvolvidos para a Trybe:
 
  ### Projetos introdutórios:
+ <div style="inline-block">
  - <a href="https://github.com/HHeloisa/Playground_Functions">Playground Functions;</a> 
-
+ - <a href="https://github.com/HHeloisa/Zoo_Functions">Zoo Functions;</a> 
+ </div
  
  ### Testes:
+ <div style="inline-block">
 - <a href="https://github.com/HHeloisa/Testes_Unit-rios">Testes Unitários;</a> 
 - <a href="https://github.com/HHeloisa/Jest">Jest;</a>
 - <a href="https://github.com/HHeloisa/React_Testing_Library">React Testing Library;</a>
+ </div>
                                     
  ### Back-End:
 1. MySQL:
+<div style="inline-block">
 - <a href="https://github.com/HHeloisa/mySQL_AllForOne">All for one;</a>
 - <a href="https://github.com/HHeloisa/Vocabulary_Booster" target="_blank">Vocabulary Booster;</a>
 - <a href="https://github.com/HHeloisa/One_For_All" target="_blank">One For All.</a>
+ </div>
  
 2. MongoDB:
+<div style="inline-block">
 - <a href="https://github.com/HHeloisa/Data_Flights" target="_blank">Data Flights;<a>,
 - <a href="https://github.com/HHeloisa/mongoDB_Ecommerce" target="_blank">MongoDB Ecommerce;<a>,
 - <a href="https://github.com/HHeloisa/Aggregations" target="_blank">Aggregations.<a>
+ </div>
 
 ---
                                                                     
