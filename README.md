@@ -41,6 +41,11 @@ Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
 # Indíce dos repositórios:
 
 ## Projetos desenvolvidos para a Trybe:
+
+ ### Projetos introdutórios:
+ - <a href="https://github.com/HHeloisa/Playground_Functions">Playground Functions;</a> 
+
+ 
  ### Testes:
 - <a href="https://github.com/HHeloisa/Testes_Unit-rios">Testes Unitários;</a> 
 - <a href="https://github.com/HHeloisa/Jest">Jest;</a>
