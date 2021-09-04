@@ -67,10 +67,16 @@ Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
  
 2. MongoDB:
 <div style="inline-block">
-- <a href="https://github.com/HHeloisa/Data_Flights" target="_blank">Data Flights;<a>,
-- <a href="https://github.com/HHeloisa/mongoDB_Ecommerce" target="_blank">MongoDB Ecommerce;<a>,
+- <a href="https://github.com/HHeloisa/Data_Flights" target="_blank">Data Flights;<a>
+- <a href="https://github.com/HHeloisa/mongoDB_Ecommerce" target="_blank">MongoDB Ecommerce;<a>
 - <a href="https://github.com/HHeloisa/Aggregations" target="_blank">Aggregations.<a>
  </div>
+
+ 3. NodeJS:
+ <div style="inline-block">
+ - <a href="https://github.com/HHeloisa/talker_manager" target="_blank">Talker Manager;<a>
+  </div>
+ 
 
 ---
                                                                     
