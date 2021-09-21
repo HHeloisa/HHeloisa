@@ -44,9 +44,11 @@ Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
 
  ### Projetos introdutórios:
  <div style="inline-block">
- - <a href="https://github.com/HHeloisa/Playground_Functions">Playground Functions;</a> 
- - <a href="https://github.com/HHeloisa/Zoo_Functions">Zoo Functions;</a> 
- - <a href="https://github.com/HHeloisa/Shopping_Cart">Shopping Cart;</a> 
+ <a href="https://github.com/HHeloisa/Playground_Functions">- Playground Functions</a> 
+ <a href="https://github.com/HHeloisa/Zoo_Functions">- Zoo Functions</a> 
+ <a href="https://github.com/HHeloisa/Shopping_Cart">- Shopping Cart</a>
+ <a href="https://github.com/HHeloisa/Pixel_Art">- Pixel Art </a>
+ 
  
  </div
  
