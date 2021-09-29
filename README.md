@@ -59,6 +59,13 @@ Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
 - <a href="https://github.com/HHeloisa/Jest">Jest;</a>
 - <a href="https://github.com/HHeloisa/React_Testing_Library">React Testing Library;</a>
  </div>
+ 
+ ### Front-End:
+ 1. React e Redux:
+<div style="inline-block">
+- <a href="https://github.com/HHeloisa/Trybe-Wallet">Trybe Wallet;</a>
+
+ </div>
                                     
  ### Back-End:
 1. MySQL:
