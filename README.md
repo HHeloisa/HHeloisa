@@ -64,7 +64,7 @@ Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
  1. React e Redux:
 <div style="inline-block">
 - <a href="https://github.com/HHeloisa/Trybe-Wallet">Trybe Wallet;</a>
-- <a href=" https://github.com/HHeloisa/Movie-Library-CRUD">Movie Library CRUD;</a>
+- <a href="https://github.com/HHeloisa/Movie-Library-CRUD">Movie Library CRUD;</a>
 
  </div>
                                     
