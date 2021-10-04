@@ -10,7 +10,8 @@ Em formação na Trybe.
 **Formação em desenvolvimento Web**
 
 Testes unitários, Jest e React Testing Library.
-Front-End: HTML, CSS, JavaScript, React, Redux. 
+Front-End: HTML, CSS, JavaScript, React, Redux, Context API, ReactHooks.
+Back-End: MySQL, MongDB, NodeJS, Express.
 
 **Formação e experiência anterior**
 
