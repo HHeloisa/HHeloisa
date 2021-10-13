@@ -43,30 +43,27 @@ Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
 
 ## Projetos desenvolvidos para a Trybe:
 
- ### Projetos introdutórios:
+ ### Front-End:
+  #### Projetos introdutórios:
  <div style="inline-block">
  <a href="https://github.com/HHeloisa/Playground_Functions">- Playground Functions</a> 
  <a href="https://github.com/HHeloisa/Zoo_Functions">- Zoo Functions</a> 
  <a href="https://github.com/HHeloisa/Shopping_Cart">- Shopping Cart</a>
  <a href="https://github.com/HHeloisa/Pixel_Art">- Pixel Art </a>
  <a href="https://github.com/HHeloisa/To-do-list"> - To do list </a>
+ </div>
  
+ #### React e Redux:
+<div style="inline-block">
+- <a href="https://github.com/HHeloisa/Trybe-Wallet">Trybe Wallet;</a>
+- <a href="https://github.com/HHeloisa/Movie-Library-CRUD">Movie Library CRUD;</a>
+ </div>
  
- </div
- 
- ### Testes:
+  ### Testes:
  <div style="inline-block">
 - <a href="https://github.com/HHeloisa/Testes_Unit-rios">Testes Unitários;</a> 
 - <a href="https://github.com/HHeloisa/Jest">Jest;</a>
 - <a href="https://github.com/HHeloisa/React_Testing_Library">React Testing Library;</a>
- </div>
- 
- ### Front-End:
- 1. React e Redux:
-<div style="inline-block">
-- <a href="https://github.com/HHeloisa/Trybe-Wallet">Trybe Wallet;</a>
-- <a href="https://github.com/HHeloisa/Movie-Library-CRUD">Movie Library CRUD;</a>
-
  </div>
                                     
  ### Back-End:
