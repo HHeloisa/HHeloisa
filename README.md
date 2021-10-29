@@ -9,10 +9,9 @@
   📧 You can find me at: hhackenhaar@gmail.com.
  <br>
  I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> 🏳️‍🌈, <b>women</b> ♀️ and environment 🌳 related projects.
-</p>
-<br> 
+</p> <br> 
 
-**Knowledge in web development**
+ **Knowledge in web development**
 
 Front-End: HTML, CSS, JavaScript, React, Redux, Context API, ReactHooks. <br>
 Unit-Test, Jest e React Testing Library. <br>
