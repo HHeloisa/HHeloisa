@@ -34,54 +34,6 @@ Back-End: MySQL, MongDB, NodeJS, Express, Multer, JWT.
 </p>
 
 ---
-
-# Repositories Index:
-
-## Projects developed for Trybe:
-<div style="inline-block">
-<p> Projetos introdutórios de HTML, CSS e JavaScript: </p>
-<a href="https://github.com/HHeloisa/Introduction-projects"> Introduction Projects </a>
-  </div>
-<br>
-
-### Front-End: 
- 
- #### React and Redux:
-<div style="inline-block">
-- <a href="https://github.com/HHeloisa/Trybe-Wallet">Trybe Wallet;</a>
-- <a href="https://github.com/HHeloisa/Movie-Library-CRUD">Movie Library CRUD;</a>
- </div>
- 
-  ### Testing:
- <div style="inline-block">
-- <a href="https://github.com/HHeloisa/Testes_Unit-rios">Testes Unitários;</a> 
-- <a href="https://github.com/HHeloisa/Jest">Jest;</a>
-- <a href="https://github.com/HHeloisa/React_Testing_Library">React Testing Library;</a>
- </div>
-                                    
- ### Back-End:
-1. MySQL:
-<div style="inline-block">
-- <a href="https://github.com/HHeloisa/mySQL_AllForOne">All for one;</a>
-- <a href="https://github.com/HHeloisa/Vocabulary_Booster" target="_blank">Vocabulary Booster;</a>
-- <a href="https://github.com/HHeloisa/One_For_All" target="_blank">One For All.</a>
- </div>
- 
-2. MongoDB:
-<div style="inline-block">
-- <a href="https://github.com/HHeloisa/Data_Flights" target="_blank">Data Flights;<a>
-- <a href="https://github.com/HHeloisa/mongoDB_Ecommerce" target="_blank">MongoDB Ecommerce;<a>
-- <a href="https://github.com/HHeloisa/Aggregations" target="_blank">Aggregations.<a>
- </div>
-
- 3. NodeJS:
- <div style="inline-block">
- - <a href="https://github.com/HHeloisa/talker_manager" target="_blank">Talker Manager;<a>
-  - <a https://github.com/HHeloisa/store-manager" target="_blank">Store Manager;<a>
-  </div>
- 
-
----
                                                                     
 ### Statistics
 
