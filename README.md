@@ -39,16 +39,13 @@ Gostaria muito de colaborar em projetos relacionados ao meios ambiente.
 # Indíce dos repositórios:
 
 ## Projetos desenvolvidos para a Trybe:
+<div style="inline-block">
+<p> Projetos introdutórios de HTML, CSS e JavaScript: </p>
+<a href="https://github.com/HHeloisa/Introduction-projects"> Introduction Projects </a>
+  </div>
+<br>
 
- ### Front-End:
-  #### Projetos introdutórios:
- <div style="inline-block">
- <a href="https://github.com/HHeloisa/Playground_Functions">- Playground Functions</a> 
- <a href="https://github.com/HHeloisa/Zoo_Functions">- Zoo Functions</a> 
- <a href="https://github.com/HHeloisa/Shopping_Cart">- Shopping Cart</a>
- <a href="https://github.com/HHeloisa/Pixel_Art">- Pixel Art </a>
- <a href="https://github.com/HHeloisa/To-do-list"> - To do list </a>
- </div>
+### Front-End: 
  
  #### React e Redux:
 <div style="inline-block">
