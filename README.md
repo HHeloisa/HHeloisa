@@ -8,7 +8,7 @@
   💁‍♀️ 🌱 woman, lesbian and vegan. <br> 
   📧 You can find me at: hhackenhaar@gmail.com.
  <br>
- I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> 🏳️‍🌈, <b>women</b> ♀️ and environment 🌳 related projects.
+ I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> 🏳️‍🌈, <b>women</b> ♀️ and <b>environment</b> 🌳 related projects.
 </p> <br> 
 
  **Knowledge in web development**
