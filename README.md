@@ -14,8 +14,8 @@
  **Knowledge in web development**
 
 Front-End: HTML, CSS, JavaScript, React, Redux, Context API, ReactHooks. <br>
-Unit-Test, Jest e React Testing Library. <br>
-Back-End: MySQL, MongDB, NodeJS, Express, Multer, JWT. 
+Unit-Test, Jest e React Testing Library, Integration tests. <br>
+Back-End: MySQL, MongDB, NodeJS, Express, Multer, JWT, Sequelize. 
 
 ---
 
