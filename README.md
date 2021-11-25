@@ -35,12 +35,6 @@ Back-End: MySQL, MongDB, NodeJS, Express, Multer, JWT, Sequelize.
 
 ---
                                                                     
-### Statistics
-
-[![HHeloisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHeloisa&count_private=true&show_icons=true&theme=prussian&hide=stars)](https://github.com/HHeloisa/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHeloisa&layout=compact&theme=dark)](https://github.com/HHeloisa/github-readme-stats)
- 
 ### Entre em contato!
 <span>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/heloisa-hackenhaar/"><img height="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn icon" style="max-width:100%;"></a></code>
