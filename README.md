@@ -12,11 +12,12 @@
 </p> <br> 
 
  **Knowledge in web development**
+ 
+Linguagens: JavaScript, Python, Dart.
 
-Front-End: HTML, CSS, JavaScript, React, Redux, Context API, ReactHooks. <br>
+Front-End: HTML, CSS, React, Redux, Context API, ReactHooks. Flutter.<br>
 Unit-Test, Jest e React Testing Library, Integration tests. <br>
-Back-End: MySQL, MongDB, NodeJS, Express, Multer, JWT, Sequelize. <br>
-POO: Python.
+Back-End: MySQL, MongDB, NodeJS, Express, JWT, Sequelize. <br>
 
 ---
 
