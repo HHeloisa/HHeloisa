@@ -11,7 +11,7 @@
  I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> 🏳️‍🌈, <b>women</b> ♀️ and <b>environment</b> 🌳 related projects.
 </p> <br> 
 
- **Knowledge in web development**
+ **Knowledge in web and mobile development**
  
 Linguagens: JavaScript, Python, Dart.
 
