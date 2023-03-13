@@ -2,7 +2,8 @@
 <p>
   👋 Hello! My name is Heloísa J. Hackenhaar, but people call me Helô.<br>
   💻 I'm a full-stack developer from <b>Brazil</b>.<br/>
-  👓 Before, I was UX research supervisor for an education platform. <br>
+  👩🏽‍💻 Currently, I work as a mobile developer at Justa.
+  👓 Before, I was UX research supervisor for an education platform and Mobile Developer at Desrotulando. <br>
   📚 I'm undergraduate degree in social sciences, at the University of Santa Catarina. <br>
   🗺️ Currently, studying spanish in duolingo, you can add me: HeloisaJH. <br>
   💁‍♀️ 🌱 woman, lesbian and vegan. <br> 
