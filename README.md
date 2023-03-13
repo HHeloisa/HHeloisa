@@ -5,7 +5,6 @@
   👩🏽‍💻 Currently, I work as a mobile developer at Justa.<br/>
   👓 Before, I was UX research supervisor for an education platform and also Mobile Developer at Desrotulando. <br>
   📚 I'm undergraduate degree in social sciences, at the University of Santa Catarina. <br>
-  🗺️ Currently, studying spanish in duolingo, you can add me: HeloisaJH. <br>
   💁‍♀️ 🌱 woman, lesbian and vegan. <br> 
   📧 You can find me at: hhackenhaar@gmail.com.
  <br>
